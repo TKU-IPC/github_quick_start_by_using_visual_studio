@@ -1,4 +1,4 @@
 # 使用 Visual Studio 與 GitHub 進行版本控制與專案共享
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+快速的介紹如何使用 Visual Studio 搭配 GitHub 進行專案的版本控制。
 
