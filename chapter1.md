@@ -2,7 +2,7 @@
 
 本章說明如何將現有的專案，以 Visual Studio 上傳至 GitHub Repository。步驟分別為：
 
-[1-1. 在 GitHub 上新增一個 Repository](/chapter1/fasdfas.md)
+[1-1. 在 GitHub 上新增一個 Repository](/chapter1/ch1-1.md)
 
 1-2. 在 Visual Studio 使用 Git 進行專案版本控制
 
