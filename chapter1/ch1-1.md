@@ -1,0 +1,18 @@
+## 1-1. 在 GitHub 上新增一個 Repository
+
+### - 使用個人帳戶登入 GitHub
+
+點選上方的 "Sign in"，然後輸入帳號密碼，確認無誤後點選 "Sign in"。
+
+![](/assets/1-1-1.png)
+
+為了讓團隊中所有人都可以看到我們新增的 Repository, 所以在下拉式選單中，我們選擇 "TKU\_IPC"。
+
+![](/assets/1-1-2.png)
+
+然後點選 "New Repository"，準備建立 Repository。![](/assets/1-1-3.png)
+
+輸入 "Repository name"，如有需要，請輸入 "Description"，對此 Repository 進行說明。點選 "Initialize this repository with a README" 會展生一個 "README.md" 的 markdown 檔案，該檔案的內容會在我們登入此 Repository 於 GitHub 的網址時顯示出來。確定後點選 "Create Repository"。
+
+![](/assets/1-1-4.png)已順利的在 GitHub 的 TKU_IPC_ 團隊中建立了一個名為 "aspose\_gendoc" 的 Repository。
+
