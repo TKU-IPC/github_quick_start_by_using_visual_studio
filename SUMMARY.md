@@ -8,4 +8,5 @@
 * [2. 使用 Visula Studio 修改他人專案](chapter2.md)
   * [2-1. 在 GitHub 上 Fork 他人專案](chapter2/ch2-1.md)
   * [2-2. 使用 Visual Studio 下載專案進行開發](chapter2/ch2-2.md)
+  * [2-3. 將修改完畢的專案上傳至 GitHub](chapter2/ch2-3.md)
 
