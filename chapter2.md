@@ -1,4 +1,4 @@
-# 2. 使用 Visula Studio 修改他人專案
+# 2. 使用 Visual Studio 修改他人專案
 
 本章說明如何使用 Visual Studio 修改他人的專案。步驟分別為：
 
