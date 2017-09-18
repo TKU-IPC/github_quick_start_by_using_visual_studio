@@ -7,5 +7,5 @@
   * [1-3. 使用 Visual Studio 將專案上傳至 GitHub](chapter1/ch1-3.md)
 * [2. 使用 Visula Studio 修改他人專案](chapter2.md)
   * [2-1. 在 GitHub 上 Fork 他人專案](chapter2/ch2-1.md)
-  * [ch2-2](ch2-2.md)
+  * [ch2-2](chapter2/ch2-2.md)
 
